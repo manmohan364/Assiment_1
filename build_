@@ -1,1 +1,14 @@
-
+# Addition of two Number
+num_1=int(input("Enter the first value: "))
+num_2=int(input("Enter the 2nd Value: "))
+add=(num_1 + num_2)
+print("Sum of two value: ",add)
+#Subtraction of two value
+sub=(num_1 - num_2)
+print("subtraction of two number: ",sub)
+#Multipication of two number
+mul=(num_1 * num_2)
+print("Multiplication of two number: ",mul)
+#Division of two number
+div=(num_1 / num_2)
+print("Division of two number: ",div)
